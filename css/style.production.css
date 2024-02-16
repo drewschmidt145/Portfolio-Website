@@ -169,8 +169,14 @@ body {
 /* Grid */
 
 .grid__item {
-    display: inline-block;
+    display: block;
     width: 33%;
+}
+
+.grid__item__img {
+    display: block;
+    height: 200px;
+    width: auto;
 }
 
 /* Footer */
