@@ -128,6 +128,12 @@ body {
     width: 33%;
 }
 
+.grid__item__img {
+    display: block;
+    height: 200px;
+    width: auto;
+}
+
 /* Footer */
 
 .page-footer {
